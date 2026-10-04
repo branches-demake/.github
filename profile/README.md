@@ -1,6 +1,11 @@
-# The Branches Demakes
+# The Branches Demake Team
 
 An group of unofficial ports of BFDI: Branches (original game by Team Branches)
+
+## Disclaimer
+Branches Demake Team is not affiliated by Team Branches or Jacknjellify.
+[Watch BFDI by jacknjellify](https://www.youtube.com/@BFDI)
+[Play BFDI: Branches by Team Branches](https://bfdibranches.com)
 
 ## To do list
 Keep in mind there are hardware limitations for each system.
