@@ -10,7 +10,11 @@ The Branches Demake Team is not affiliated by Team Branches or Jacknjellify.
 [Play BFDI: Branches by Team Branches](https://bfdibranches.com)
 
 ## Anti-vibecode policy
-We do not take shortcuts to develop the demakes. Please avoid using LLM models to 
+We do not take shortcuts to develop the demakes. Please refrain from using LLM models to make it "quick and easy," as it is unreliable, not to mention, hated by the community.
+
+Vibe-coded pull requests will be declined at our discretion.
+
+Anyone repeatedly caught vibe-coding will result in a permaban.
 
 ## To do list
 Keep in mind there are hardware limitations for each system.
