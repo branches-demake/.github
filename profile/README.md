@@ -5,6 +5,8 @@ An group of unofficial ports of BFDI: Branches (original game by Team Branches)
 ## Disclaimer
 The Branches Demake Team is not affiliated by Team Branches or Jacknjellify.
 
+The Branches Demake Team will not make profits in any way.
+
 [Watch BFDI by jacknjellify](https://www.youtube.com/@BFDI)
 
 [Play BFDI: Branches by Team Branches](https://bfdibranches.com)
@@ -38,6 +40,7 @@ Keep in mind there are hardware limitations for each system.
 | Mega65                          | 384 KB fast, 8MB Hyper | GS4510 @ 40 MHz                                               | VIC-IV             | Perfect     |
 
 **I highly recommend using a modern power supply for your C64 or C128!**
+
 I also recommend to use an emulator for testing. [VICE emulator](https://vice-emu.sourceforge.io) to emulate Commodore systems and the official [Commander X16 Emulator](https://github.com/x16community/x16-emulator).
 
 PET unlikely feasible because character sets are stored in ROM, no graphics mode and no hardware sprites on original hardware! Maybe modern hardware can suffice.
