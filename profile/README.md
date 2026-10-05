@@ -1,6 +1,6 @@
 # The Branches Demake Team
 
-An group of unofficial ports of BFDI: Branches (original game by Team Branches)
+A group of unofficial ports of BFDI: Branches (original game by Team Branches)
 
 ## Disclaimer
 The Branches Demake Team is not affiliated by Team Branches or Jacknjellify.
