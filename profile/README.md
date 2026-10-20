@@ -44,6 +44,8 @@ Keep in mind there are hardware limitations for each system.
 I also recommend to use an emulator for testing. [VICE emulator](https://vice-emu.sourceforge.io) to emulate Commodore systems and the official [Commander X16 Emulator](https://github.com/x16community/x16-emulator).
 
 PET unlikely feasible because character sets are stored in ROM, no graphics mode and no hardware sprites on original hardware! Maybe modern hardware can suffice.
+Commodore Max is very unfeasible because there's not enough RAM (2 KB).
+Commodore 64GS is very unfeasible due to not having a keyboard, IEC connectors or userport and BFDI: Branches demake requires the use of a keyboard and does not support the original one-button joystick because there's not enough buttons (REQUIRES FOUR OR FIVE BUTTONS).
 
 [^1]: VDC has it own video RAM but it lacks sprites
 [^2]: VIC and TED chips lack the hardware sprites
